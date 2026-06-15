@@ -1,0 +1,170 @@
+Feature,Importance
+days_since_last_order,0.96678543
+customer_tenure_days,0.006796492
+active_customer_days,0.0030169152
+avg_order_value,0.002402898
+revenue_per_day,0.0020248396
+main_sub_category_Kitchen,0.00072804355
+total_revenue,0.00070747593
+order_frequency,0.00069477735
+city_Seville,0.0003841862
+country_Belgium,0.0003655563
+main_sub_category_Smartphones,0.0003252248
+main_sub_category_Kids Wear,0.00031545377
+city_New York,0.00031474276
+main_sub_category_Gym Equipment,0.00029832585
+main_category_Electronics,0.00028625582
+city_Perth,0.00027887235
+city_Birmingham,0.00025714
+main_brand_Anker,0.0002384231
+main_brand_Logitech,0.00021398281
+main_brand_Fitbit,0.00019591243
+main_campaign_source_Instagram,0.00017863096
+country_Spain,0.00016662733
+main_sub_category_Shoes,0.00016502333
+main_payment_method_Debit Card,0.00016302768
+city_Brussels,0.00015376646
+main_payment_method_Credit Card,0.00015336878
+main_review_sentiment_Neutral,0.00014958595
+main_order_status_Completed,0.00014617467
+city_Sydney,0.00014602709
+main_category_Sports,0.00014322583
+abandoned_cart_rate,0.0001430777
+city_The Hague,0.00014221773
+main_delivery_status_Failed,0.00014185045
+total_profit,0.00014120148
+main_order_status_Returned,0.0001392274
+city_Houston,0.0001387565
+main_brand_Baseus,0.00013874417
+avg_customer_rating,0.00013866417
+weekend_order_rate,0.0001383498
+revenue_per_order,0.000136696
+avg_loyalty_score,0.00013475383
+city_Hamburg,0.00013372501
+original_total_orders_by_customer,0.0001322273
+avg_shipping_cost,0.000132076
+main_device_type_Mobile,0.00013169291
+customer_segment_Regular,0.00013061386
+profit_per_order,0.00013031492
+main_category_Health,0.00013011959
+main_device_type_Tablet,0.00012885976
+avg_session_duration,0.00012870609
+coupon_used_rate,0.00012864382
+main_shipping_method_Express,0.00012850769
+total_cost,0.00012838906
+avg_profit_margin,0.00012778926
+main_campaign_source_Google Ads,0.00012727253
+profit_margin_real,0.00012640656
+avg_delivery_days,0.00012527559
+main_payment_method_PayPal,0.00012495418
+total_quantity,0.00012260697
+total_discount_amount,0.00012200278
+avg_product_rating,0.000121913225
+city_Toulouse,0.0001216799
+main_traffic_source_Search,0.00012061044
+country_United Kingdom,0.000120379846
+main_traffic_source_Referral,0.00012033701
+avg_fraud_risk,0.000120146084
+avg_product_reviews,0.00011926475
+country_Germany,0.00011819655
+age,0.000117939206
+avg_pages_visited,0.0001175499
+main_category_Home,0.00011702397
+main_shipping_method_Standard,0.00011673583
+main_review_sentiment_Positive,0.000114823495
+country_France,0.00011336245
+main_delivery_status_In Transit,0.00011202411
+main_payment_status_Pending,0.00011183485
+country_United States,0.00011087456
+installment_plan_rate,0.00011081697
+support_ticket_rate,0.00011052925
+main_shipping_method_Next Day,0.00010985333
+main_brand_HP,0.00010863344
+main_sub_category_Sports Wear,0.000108286404
+country_Canada,0.00010800865
+main_brand_Asus,0.0001079046
+main_sub_category_Medical Devices,0.00010715162
+main_brand_Nikon,0.00010510489
+gender_Male,0.0001043483
+main_sub_category_Furniture,0.00010420679
+main_brand_Canon,0.00010370266
+main_brand_Huawei,0.00010355598
+city_Los Angeles,0.00010328237
+avg_discount_percent,0.00010283836
+main_order_status_Processing,0.00010256516
+main_brand_Lenovo,0.00010210423
+main_sub_category_Supplements,0.000101728234
+main_traffic_source_Email,0.000100683246
+main_traffic_source_Social,9.973761e-05
+main_payment_method_Bank Transfer,9.9617086e-05
+main_brand_Apple,9.9202785e-05
+main_sub_category_Appliances,9.851274e-05
+main_brand_Nike,9.795447e-05
+main_campaign_source_Email,9.783641e-05
+main_campaign_source_Organic,9.7349766e-05
+main_sub_category_Personal Care,9.725342e-05
+main_order_priority_Low,9.722972e-05
+main_sub_category_Audio,9.70254e-05
+main_brand_Xiaomi,9.6979755e-05
+main_sub_category_Mens Wear,9.61446e-05
+main_order_priority_Medium,9.5764306e-05
+main_delivery_status_Pending,9.532957e-05
+country_Netherlands,9.269087e-05
+city_Milan,8.99278e-05
+main_sub_category_Decor,8.939936e-05
+main_brand_GoPro,8.9349385e-05
+main_campaign_source_Facebook,8.932867e-05
+city_Bilbao,8.826945e-05
+city_Manchester,8.7977016e-05
+main_sub_category_Outdoor,8.759663e-05
+main_brand_Philips,8.551405e-05
+main_brand_Samsung,8.331484e-05
+main_payment_status_Paid,8.0844045e-05
+main_sub_category_Tablets,7.9993195e-05
+main_brand_JBL,7.844705e-05
+country_Italy,7.725879e-05
+city_Glasgow,7.618677e-05
+city_Utrecht,7.51096e-05
+city_Valencia,7.328191e-05
+city_Chicago,7.158454e-05
+city_Eindhoven,6.8637244e-05
+customer_segment_VIP,6.755703e-05
+main_sub_category_Fitness,6.516678e-05
+city_Ghent,6.4476175e-05
+city_Phoenix,6.0983733e-05
+main_sub_category_Cameras,5.8296766e-05
+city_Frankfurt,5.382701e-05
+main_sub_category_Womens Wear,5.3794964e-05
+city_Melbourne,5.2341853e-05
+city_Toronto,5.1176605e-05
+city_Barcelona,4.9090253e-05
+main_sub_category_Laptops,4.4243643e-05
+city_Paris,4.335214e-05
+city_Munich,3.5367335e-05
+main_order_status_Pending,3.4857792e-05
+main_brand_Dell,3.2048283e-05
+city_Naples,3.07663e-05
+city_Ottawa,3.0001951e-05
+city_Berlin,2.8600562e-05
+city_London,2.3729703e-05
+city_Amsterdam,1.9457082e-05
+total_orders,0.0
+city_Turin,0.0
+city_Madrid,0.0
+city_Marseille,0.0
+city_Antwerp,0.0
+city_Vancouver,0.0
+city_Rotterdam,0.0
+city_Rome,0.0
+city_Nice,0.0
+city_Montreal,0.0
+city_Brisbane,0.0
+city_Bruges,0.0
+city_Cologne,0.0
+city_Calgary,0.0
+city_Leeds,0.0
+city_Florence,0.0
+city_Lyon,0.0
+city_Liege,0.0
+main_sub_category_Bedding,0.0
+main_brand_Sony,0.0
